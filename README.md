@@ -1,7 +1,6 @@
 
 # to-do-list
-To Do List
-This is a simple To Do List Project.
+This is a basic To Do List Project.
 
 
 ![Ekran Resmi 2023-07-14 08 54 08](https://github.com/tarantuna/to-do-list/assets/118597175/bd855a4e-83ae-41a2-a391-bca8197e523d)
